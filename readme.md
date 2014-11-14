@@ -1,10 +1,11 @@
 # **AUFGABE 2: Markdown**
 ---------------------
-1. *WerkzeugeVorlesung*
+1. *Werkzeuge Praktikum & Vorlesung*
+   * Monday
    * Thursday
 2. *WeekEnd*
    * Saturday
-   * Sunday \*
+   * Sunday
 ---------------------   
 | **Wake** | **Me** | **Up** |
 |:----:|:--:|:--:|
