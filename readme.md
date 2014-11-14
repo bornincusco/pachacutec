@@ -4,7 +4,7 @@
    * Thursday
 2. *WeekEnd*
    * Saturday
-   * Sunday n
+   * Sunday \*
 ---------------------   
 | **Wake** | **Me** | **Up** |
 |:----:|:--:|:--:|
