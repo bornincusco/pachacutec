@@ -2,11 +2,11 @@
 ------------------------------------
 ------------------------------------
 1. **Werkzeuge Praktikum & Vorlesung**
-     * Monday
-     * Thursday
+     *Monday
+     *Thursday
 2. **WeekEnd**
-     * Saturday
-     * Sunday
+     *Saturday
+     *Sunday
 -----------------------------------
 -----------------------------------   
 | **Wake** | **Me** | **Up** |
